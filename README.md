@@ -29,3 +29,5 @@ File for 3d printing can be found in the STL folder. The FreeCAD model can be fo
 |100 ohm resistor          | 1x    |
 |RED 5mm LED          | 1x    |
 |5V Active Buzzer          | 1x    |
+|PCB Prototype board          | 1x    |
+|Some wires          | 1x    |
