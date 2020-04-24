@@ -10,4 +10,8 @@ File for 3d printing can be found in the STL folder. The FreeCAD model can be fo
 
 ![Model](https://github.com/leonvandenbeukel/Prevent-Face-Touch/blob/master/Image/ModelPreview.png)
 
-![Model](https://github.com/leonvandenbeukel/Prevent-Face-Touch/blob/master/Image/Photo.jpg)
+![Photo](https://github.com/leonvandenbeukel/Prevent-Face-Touch/blob/master/Image/Photo.jpg)
+
+### Schema
+
+![Schema](https://github.com/leonvandenbeukel/Prevent-Face-Touch/blob/master/Schema/Preview.png)
